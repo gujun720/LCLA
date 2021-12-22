@@ -5,6 +5,8 @@
 
 **Are open source companies claiming too much from their contributors?**
 
+## Open source is hot
+
 The investment in open source software (OSS) is the hottest in the past decade. Although the number of fundraising events didn't increase, the money raised has more than tripled in 2021.
 
 ***Funding charts***
@@ -23,9 +25,15 @@ But more money and more attention also bring new issues to the open source world
 
 This is still a benign competition. But we could also find some tricky cases about how the OSS project owners try to control the community contributors.
 
+## The "exclusion" in open source contribution
+
+Below statements are extracted from the SEC Form S-1 when certain open source company submitted the IPO registration materials.
+
 ![The exclusive license in an open source project](../assets/oss_exclusive_license.png)
-> The exclusive license in an open source project
 
-Why did I mask the company name?
+> **Why did I mask the company name?**
+> I am not going to criticize any particular company in this article.  Because what they do is, in fact, to follow the "industrial standard practice" at this moment. We should discuss if the "industrial standard practice" is reasonable rather than the right or wrong of some companies.
 
-I am not going to criticize any particular company in this article.  Because what they do is, in fact, to follow the "industrial standard practice" at this moment. We should discuss if the "industrial standard practice" is reasonable rather than the right or wrong of some companies.
+"In addition, all contributors are required to sign a contributor license agreement that grants XXXXX **exclusive license** to distribute any accepted contribution commercially."
+
+The exclusive license they mentioned here is really upsetting.
